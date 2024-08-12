@@ -67,6 +67,6 @@ I am a tech architect and enthusiast working in the financial industry
 #### ░▒▓█ Stats █▓▒░
 
 [![Stats-Dark](https://github-readme-stats.vercel.app/api?username=marc-0x01&disable_animations=true&text_bold=false&show_icons=false&hide_title=true&rank_icon=github&hide_border=true&text_color=FFFFFF&bg_color=00000000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Stats-Light](https://github-readme-stats.vercel.app/api?username=marrc-0x01&disable_animations=true&text_bold=false&show_icons=false&hide_title=true&rank_icon=github&hide_border=true&text_color=FFFFFF&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Stats-Light](https://github-readme-stats.vercel.app/api?username=marc-0x01&disable_animations=true&text_bold=false&show_icons=false&hide_title=true&rank_icon=github&hide_border=true&text_color=FFFFFF&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </samp>
